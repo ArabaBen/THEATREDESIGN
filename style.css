@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Lancelot&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Corben&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Jomhuria&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bahianita&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Just+Me+Again+Down+Here&display=swap');
+
+
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: Arial;
+  font-size: 17px;
+background-color: #000;
+}
+h1{
+font-family: 'Bahianita', sans-serif;
+    color: #fff;
+    letter-spacing: 2px;
+    margin-left: 20px;
+}
+
+P{
+
+}
+.navigator{
+    text-align: center;
+    margin: 8%;
+    color: #fff;
+    padding: 
+}
+.navigator a{
+    color: #fff;
+    padding: 18px;
+}
+#myVideo {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%; 
+  min-height: 100%;
+}
+.content {
+  position: absolute;
+  bottom: 20%;
+  background: rgba(0, 0, 0, 0.03);
+  color: #f1f1f1;
+  width: 100%;
+  padding: 10px;
+    text-align: center;
+}
